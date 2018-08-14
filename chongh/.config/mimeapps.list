@@ -1,0 +1,4 @@
+[Added Associations]
+application/octet-stream=vim.desktop;
+application/x-sqlite3=vim.desktop;
+text/plain=typora.desktop;

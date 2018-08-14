@@ -1,0 +1,393 @@
+# 这个 viminfo 文件是由 Vim 7.4 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~MSle0~/printf
+
+# 命令行 历史记录 (从新到旧)：
+:wq
+:q!
+:!
+:qw
+:q
+
+# 查找字符串 历史记录 (从新到旧)：
+?/printf
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+
+# 文件标记:
+'0  1  0  ~/.bash_logoyt
+'1  7  3  ~/.bash_profile
+'2  1  0  ~/.bashrc
+'3  6  0  ~/.bash_profile
+'4  1  0  ~/.bashsrc
+'5  3  21  ~/.bash_profile
+'6  1  21  ~/.bash_profile
+'7  1  0  /linux_base.md
+'8  1  0  /linnux
+'9  3  0  /linux_base.md
+
+# 跳转列表 (从新到旧):
+-'  1  0  ~/.bash_logoyt
+-'  7  3  ~/.bash_profile
+-'  1  0  ~/.bash_profile
+-'  1  0  ~/.bashrc
+-'  6  0  ~/.bash_profile
+-'  1  0  ~/.bashsrc
+-'  3  21  ~/.bash_profile
+-'  1  0  /linux_base.md
+-'  1  0  /linnux
+-'  3  0  /linux_base.md
+-'  2  7  /linux_base.md
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.264202
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.262743
+-'  1  0  /dff567355fce4640_0
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/RECOVERED_FILES/lost+found/dff567355fce4640_0
+-'  1  0  /home/RECOVERED_FILES/file.1050921
+-'  457  47  ~/.config/Typora/draftsRecover/2018-8-7 海贼上船考试 130141.md
+-'  1  0  ~/.config/Typora/draftsRecover/2018-8-7 海贼上船考试 130141.md
+-'  1  0  /home/RECOVERED_FILES/file.785134
+-'  1  0  /file.785134
+-'  5  0  /home/RECOVERED_FILES/lost+found/a757123f498c0c9b_0
+-'  1  0  /home/RECOVERED_FILES/lost+found/a757123f498c0c9b_0
+-'  6  0  /home/RECOVERED_FILES/lost+found/CD936782A0C69EDF4417D213B083FCC7F78DD132
+-'  1  0  /home/RECOVERED_FILES/lost+found/CD936782A0C69EDF4417D213B083FCC7F78DD132
+-'  2  0  /home/RECOVERED_FILES/lost+found/CD936782A0C69EDF4417D213B083FCC7F78DD132
+-'  2  0  /home/RECOVERED_FILES/lost+found/5a8253e05b77a9b4_0
+-'  1  0  /home/RECOVERED_FILES/lost+found/5a8253e05b77a9b4_0
+-'  18  0  /home/RECOVERED_FILES/lost+found/5a8253e05b77a9b4_0
+-'  1  0  ~/test.sh
+-'  1  7  /a.sh
+-'  1  1  ~/a.sh
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/RECOVERED_FILES/lost+found/0be2003fe155b141_0
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/RECOVERED_FILES/lost+found/22ecfac277b9fe50_0
+-'  18  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/chongh/myrm/test-flash-simple.sbstore
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/chongh/myrm/test-flash-simple.sbstore
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/chongh/myrm/test-block-simple.sbstore
+-'  22  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/chongh/myrm/block-flash-digest256.pset
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/chongh/myrm/block-flash-digest256.pset
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/chongh/myrm/allow-flashallow-digest256.sbstore
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/chongh/EP38.cpp
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.267049
+-'  22  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.1075033
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.1075033
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.1075281
+-'  61  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.1075274
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.1075274
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.267066
+-'  1  0  /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.262098
+-'  1  0  /home/RECOVERED_FILES/file.1075281
+-'  1  0  /home/RECOVERED_FILES/file.789131
+-'  13  0  /home/RECOVERED_FILES/file.789022
+-'  1  0  /home/RECOVERED_FILES/file.789022
+-'  1  0  /home/RECOVERED_FILES/file.788463
+-'  1  0  /home/RECOVERED_FILES/file.788444
+-'  37  0  /home/RECOVERED_FILES/file.785166
+-'  1  0  /home/RECOVERED_FILES/file.785166
+-'  1  0  /home/RECOVERED_FILES/file.785136
+-'  1  0  ~/EP43.cpp
+-'  1  0  /home/RECOVERED_FILES/chongh/EP38.cpp
+-'  1  0  /home/RECOVERED_FILES/chongh/文档/Euler/线下课程第一章.md
+-'  1  0  ~/EP20.cpp
+-'  15  7  ~/EP43.cpp
+-'  1  0  ~/tash.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/tash.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/tash.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/tash.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/EP20.cpp
+-'  1  0  ~/tash.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/tash.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/tash.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/tash.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  /home/RECOVERED_FILES/chongh/文档/Euler/线下课程第一章.md
+-'  1  0  ~/EP20.cpp
+-'  1  0  ~/tash.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/tash.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/tash.sh
+-'  1  0  ~/myrm/task.sh
+-'  1  0  ~/myrm/task.sh
+
+# 文件内的标记历史记录 (从新到旧):
+
+> ~/.bash_logoyt
+	"	1	0
+
+> ~/.bash_profile
+	"	7	3
+	^	7	4
+	.	8	0
+	+	1	17
+	+	9	0
+	+	1	23
+	+	3	49
+	+	9	0
+	+	3	61
+	+	4	30
+	+	8	3
+	+	5	6
+	+	1	8
+	+	5	22
+	+	7	4
+	+	7	2
+	+	6	22
+	+	8	0
+
+> ~/.bashrc
+	"	1	0
+
+> ~/.bashsrc
+	"	1	0
+	^	1	1
+	.	1	0
+	+	1	0
+
+> /linnux
+	"	1	0
+
+> /linux_base.md
+	"	3	0
+	^	3	0
+	.	3	0
+	+	1	11
+	+	2	9
+	+	3	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.264202
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.262743
+	"	1	0
+
+> /dff567355fce4640_0
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/RECOVERED_FILES/lost+found/dff567355fce4640_0
+	"	1	0
+
+> /home/RECOVERED_FILES/file.1050921
+	"	1	0
+
+> ~/.config/Typora/draftsRecover/2018-8-7 海贼上船考试 130141.md
+	"	457	47
+
+> /home/RECOVERED_FILES/file.785134
+	"	1	0
+
+> /file.785134
+	"	1	0
+
+> /home/RECOVERED_FILES/lost+found/a757123f498c0c9b_0
+	"	5	0
+
+> /home/RECOVERED_FILES/lost+found/CD936782A0C69EDF4417D213B083FCC7F78DD132
+	"	6	0
+
+> /home/RECOVERED_FILES/lost+found/5a8253e05b77a9b4_0
+	"	2	0
+
+> ~/test.sh
+	"	1	0
+
+> /a.sh
+	"	1	7
+	^	1	8
+	.	1	7
+	+	1	7
+
+> ~/a.sh
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/RECOVERED_FILES/lost+found/0be2003fe155b141_0
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/lost+found/test-flash-simple.sbstore
+	"	1	0
+
+> /home/RECOVERED_FILES/lost+found/未命名文件夹.trashinfo
+	"	1	0
+
+> /home/RECOVERED_FILES/lost+found/mozstd-trackwhite-digest256.pset
+	"	1	0
+
+> /home/RECOVERED_FILES/lost+found/plugins.json
+	"	19	0
+
+> /home/RECOVERED_FILES/lost+found/tags.v1
+	"	1	0
+
+> /home/RECOVERED_FILES/lost+found/test-flash-simple.sbstore
+	"	10	0
+
+> /home/RECOVERED_FILES/lost+found/海贼18-4班第五次作业.md.trashinfo
+	"	1	0
+
+> /home/RECOVERED_FILES/lost+found/代码集训.md.trashinfo
+	"	1	0
+
+> /home/RECOVERED_FILES/lost+found/代码集训.2.md.trashinfo
+	"	23	0
+
+> /home/RECOVERED_FILES/lost+found/7D6AB5B62FCF305A0D94610E17243380FE82AEC3
+	"	1	0
+
+> /home/RECOVERED_FILES/lost+found/06c54b03fc301aa1_0
+	"	1	0
+
+> /home/RECOVERED_FILES/lost+found/5d6cb5af57cea1d9_0
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.1075033
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.1075274
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/chongh/myrm/test-block-simple.sbstore
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.261832
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.267050
+	"	4	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/lost+found/fd9e2800842246d5_0
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/lost+found/files
+	"	49	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/lost+found/mozstd-trackwhite-digest256.pset
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/lost+found/trash
+	"	19	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/lost+found/810ec2c729cb3286_0
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/lost+found/06C4786BF03C0C44E3A56551566069DB3B329064
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.264386
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.262785
+	"	69	0
+
+> /tmp/extundelete-0.2.4/src/extundelete.cc
+	"	13	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/RECOVERED_FILES/lost+found/e0e5f85213501869_0
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/RECOVERED_FILES/lost+found/041dffd82becebee_0
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/RECOVERED_FILES/lost+found/1ea86f46ffabaac5_0
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/RECOVERED_FILES/lost+found/3a3f2a81b6f5e359_0
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/RECOVERED_FILES/lost+found/22ecfac277b9fe50_0
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/chongh/myrm/test-flash-simple.sbstore
+	"	18	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/chongh/myrm/block-flash-digest256.pset
+	"	22	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/chongh/myrm/allow-flashallow-digest256.sbstore
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/chongh/EP38.cpp
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.267049
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.1075281
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.267066
+	"	1	0
+
+> /tmp/extundelete-0.2.4/src/RECOVERED_FILES/file.262098
+	"	1	0
+
+> /home/RECOVERED_FILES/file.1075281
+	"	1	0
+
+> /home/RECOVERED_FILES/file.789131
+	"	1	0
+
+> /home/RECOVERED_FILES/file.789022
+	"	13	0
+
+> /home/RECOVERED_FILES/file.788463
+	"	1	0
+
+> /home/RECOVERED_FILES/file.788444
+	"	1	0
+
+> /home/RECOVERED_FILES/file.785166
+	"	37	0
+
+> /home/RECOVERED_FILES/file.785136
+	"	1	0
+
+> ~/EP43.cpp
+	"	1	0
+
+> /home/RECOVERED_FILES/chongh/EP38.cpp
+	"	1	0
+
+> /home/RECOVERED_FILES/chongh/文档/Euler/线下课程第一章.md
+	"	1	0
+
+> ~/EP20.cpp
+	"	1	0
+
+> ~/tash.sh
+	"	1	0
+
+> ~/myrm/task.sh
+	"	1	0

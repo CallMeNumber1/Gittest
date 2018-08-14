@@ -1,0 +1,1 @@
+{"registrationInfo":{"deviceId":"anon7fc9b7cb-f52f-4e5b-80b7-8657c1a1f01c","secret":"33aec1b7-1086-4196-bb02-1a7415e829b4","registered":false},"hasSeenOnboarding":true}

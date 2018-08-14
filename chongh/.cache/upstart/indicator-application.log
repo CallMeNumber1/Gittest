@@ -1,0 +1,4 @@
+
+(process:1687): indicator-application-service-CRITICAL **: Could not grab DBus properties for org.kde.StatusNotifierItem-29627-2: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/StatusNotifierItem'
+
+(process:1687): indicator-application-service-CRITICAL **: Could not grab DBus properties for org.kde.StatusNotifierItem-8901-2: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/StatusNotifierItem'

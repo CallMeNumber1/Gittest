@@ -1,0 +1,230 @@
+INFO 2018/8/14 上午10:52:56  cannot parse user config, use the default one
+INFO 2018/8/14 上午10:52:56  ------------------start------------------
+INFO 2018/8/14 上午10:52:56  typora version: 0.9.53
+INFO 2018/8/14 上午10:52:56  addRecentDocument
+ERROR 2018/8/14 上午10:53:27  [RenderProcess 1][Error] fs write failed -- 
+Error: EACCES: permission denied, open '/linux_base.md'
+ERROR 2018/8/14 上午10:53:27  [RenderProcess 1][Error] Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+    at callFunction (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:257:11)
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:357:5)
+    at emitMany (events.js:147:13)
+    at EventEmitter.emit (events.js:224:7)
+    at WebContents.<anonymous> (/usr/share/typora/resources/electron.asar/browser/api/web-contents.js:295:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+    at Object.exception (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:209:30)
+    at metaToValue (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:213:28)
+    at Object.remoteMemberFunction (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:113:16)
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:4076
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/common/api/callbacks-registry.js:47:25)
+    at EventEmitter.ipcRenderer.on (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:261:21)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+ERROR 2018/8/14 上午10:53:27  [RenderProcess 1][Error] Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+    at callFunction (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:257:11)
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:357:5)
+    at emitMany (events.js:147:13)
+    at EventEmitter.emit (events.js:224:7)
+    at WebContents.<anonymous> (/usr/share/typora/resources/electron.asar/browser/api/web-contents.js:295:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+    at Object.exception (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:209:30)
+    at metaToValue (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:213:28)
+    at Object.remoteMemberFunction (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:113:16)
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:4076
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/common/api/callbacks-registry.js:47:25)
+    at EventEmitter.ipcRenderer.on (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:261:21)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+ERROR 2018/8/14 上午10:53:27  [RenderProcess 1][Error] Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+    at callFunction (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:257:11)
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:357:5)
+    at emitMany (events.js:147:13)
+    at EventEmitter.emit (events.js:224:7)
+    at WebContents.<anonymous> (/usr/share/typora/resources/electron.asar/browser/api/web-contents.js:295:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+    at Object.exception (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:209:30)
+    at metaToValue (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:213:28)
+    at Object.remoteMemberFunction (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:113:16)
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:4076
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/common/api/callbacks-registry.js:47:25)
+    at EventEmitter.ipcRenderer.on (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:261:21)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+ERROR 2018/8/14 上午10:53:27  [RenderProcess 1][Error] Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+    at callFunction (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:257:11)
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:357:5)
+    at emitMany (events.js:147:13)
+    at EventEmitter.emit (events.js:224:7)
+    at WebContents.<anonymous> (/usr/share/typora/resources/electron.asar/browser/api/web-contents.js:295:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+    at Object.exception (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:209:30)
+    at metaToValue (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:213:28)
+    at Object.remoteMemberFunction (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:113:16)
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:4076
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/common/api/callbacks-registry.js:47:25)
+    at EventEmitter.ipcRenderer.on (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:261:21)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+ERROR 2018/8/14 上午10:53:32  [RenderProcess 1][Error] Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+    at callFunction (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:257:11)
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:357:5)
+    at emitMany (events.js:147:13)
+    at EventEmitter.emit (events.js:224:7)
+    at WebContents.<anonymous> (/usr/share/typora/resources/electron.asar/browser/api/web-contents.js:295:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+    at Object.exception (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:209:30)
+    at metaToValue (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:213:28)
+    at Object.remoteMemberFunction (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:113:16)
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:4076
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/common/api/callbacks-registry.js:47:25)
+    at EventEmitter.ipcRenderer.on (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:261:21)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+ERROR 2018/8/14 上午10:53:32  [RenderProcess 1][Error] Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+    at callFunction (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:257:11)
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:357:5)
+    at emitMany (events.js:147:13)
+    at EventEmitter.emit (events.js:224:7)
+    at WebContents.<anonymous> (/usr/share/typora/resources/electron.asar/browser/api/web-contents.js:295:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+    at Object.exception (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:209:30)
+    at metaToValue (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:213:28)
+    at Object.remoteMemberFunction (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:113:16)
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:4076
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/common/api/callbacks-registry.js:47:25)
+    at EventEmitter.ipcRenderer.on (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:261:21)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+ERROR 2018/8/14 上午10:53:33  [RenderProcess 1][Error] Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+    at callFunction (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:257:11)
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:357:5)
+    at emitMany (events.js:147:13)
+    at EventEmitter.emit (events.js:224:7)
+    at WebContents.<anonymous> (/usr/share/typora/resources/electron.asar/browser/api/web-contents.js:295:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+    at Object.exception (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:209:30)
+    at metaToValue (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:213:28)
+    at Object.remoteMemberFunction (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:113:16)
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:4076
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/common/api/callbacks-registry.js:47:25)
+    at EventEmitter.ipcRenderer.on (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:261:21)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+ERROR 2018/8/14 上午10:53:33  [RenderProcess 1][Error] Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+    at callFunction (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:257:11)
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:357:5)
+    at emitMany (events.js:147:13)
+    at EventEmitter.emit (events.js:224:7)
+    at WebContents.<anonymous> (/usr/share/typora/resources/electron.asar/browser/api/web-contents.js:295:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+    at Object.exception (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:209:30)
+    at metaToValue (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:213:28)
+    at Object.remoteMemberFunction (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:113:16)
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:4076
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/common/api/callbacks-registry.js:47:25)
+    at EventEmitter.ipcRenderer.on (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:261:21)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+ERROR 2018/8/14 上午10:54:16  [RenderProcess 1][Error] fs write failed -- 
+Error: EACCES: permission denied, open '/linux_base.md'
+ERROR 2018/8/14 上午10:54:16  [RenderProcess 1][Error] Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+    at callFunction (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:257:11)
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:357:5)
+    at emitMany (events.js:147:13)
+    at EventEmitter.emit (events.js:224:7)
+    at WebContents.<anonymous> (/usr/share/typora/resources/electron.asar/browser/api/web-contents.js:295:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+    at Object.exception (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:209:30)
+    at metaToValue (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:213:28)
+    at Object.remoteMemberFunction (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:113:16)
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:4076
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/common/api/callbacks-registry.js:47:25)
+    at EventEmitter.ipcRenderer.on (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:261:21)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+ERROR 2018/8/14 上午10:54:16  [RenderProcess 1][Error] Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+    at callFunction (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:257:11)
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:357:5)
+    at emitMany (events.js:147:13)
+    at EventEmitter.emit (events.js:224:7)
+    at WebContents.<anonymous> (/usr/share/typora/resources/electron.asar/browser/api/web-contents.js:295:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+    at Object.exception (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:209:30)
+    at metaToValue (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:213:28)
+    at Object.remoteMemberFunction (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:113:16)
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:4076
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/common/api/callbacks-registry.js:47:25)
+    at EventEmitter.ipcRenderer.on (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:261:21)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+ERROR 2018/8/14 上午10:54:16  [RenderProcess 1][Error] Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+    at callFunction (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:257:11)
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:357:5)
+    at emitMany (events.js:147:13)
+    at EventEmitter.emit (events.js:224:7)
+    at WebContents.<anonymous> (/usr/share/typora/resources/electron.asar/browser/api/web-contents.js:295:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+    at Object.exception (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:209:30)
+    at metaToValue (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:213:28)
+    at Object.remoteMemberFunction (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:113:16)
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:4076
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/common/api/callbacks-registry.js:47:25)
+    at EventEmitter.ipcRenderer.on (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:261:21)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+ERROR 2018/8/14 上午10:54:16  [RenderProcess 1][Error] Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+    at callFunction (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:257:11)
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:357:5)
+    at emitMany (events.js:147:13)
+    at EventEmitter.emit (events.js:224:7)
+    at WebContents.<anonymous> (/usr/share/typora/resources/electron.asar/browser/api/web-contents.js:295:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+    at Object.exception (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:209:30)
+    at metaToValue (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:213:28)
+    at Object.remoteMemberFunction (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:113:16)
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:4076
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/common/api/callbacks-registry.js:47:25)
+    at EventEmitter.ipcRenderer.on (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:261:21)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+ERROR 2018/8/14 上午10:54:16  [RenderProcess 1][Error] Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+Error: Could not call remote function 'setAutoHideMenuBar'. Check that the function signature is correct. Underlying error: Error processing argument at index 0, conversion failure from undefined
+    at callFunction (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:257:11)
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/browser/rpc-server.js:357:5)
+    at emitMany (events.js:147:13)
+    at EventEmitter.emit (events.js:224:7)
+    at WebContents.<anonymous> (/usr/share/typora/resources/electron.asar/browser/api/web-contents.js:295:13)
+    at emitTwo (events.js:126:13)
+    at WebContents.emit (events.js:214:7)
+    at Object.exception (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:209:30)
+    at metaToValue (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:213:28)
+    at Object.remoteMemberFunction (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:113:16)
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:4076
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/common/api/callbacks-registry.js:47:25)
+    at EventEmitter.ipcRenderer.on (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:261:21)
+    at emitThree (events.js:136:13)
+    at EventEmitter.emit (events.js:217:7)
+INFO 2018/8/14 上午10:54:24  ------------------quit------------------

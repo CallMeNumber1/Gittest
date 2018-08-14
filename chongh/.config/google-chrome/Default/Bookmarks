@@ -1,0 +1,477 @@
+{
+   "checksum": "e92abbcb6db8a5f4580348bd25f6bb7e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13176527003000000",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13178700355578181"
+            },
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/central/"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13176527003000000",
+                  "id": "8",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13176527003000000",
+                  "id": "9",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/firefox/customize/"
+               }, {
+                  "date_added": "13176527003000000",
+                  "id": "10",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13176527003000000",
+                  "id": "11",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               } ],
+               "date_added": "13177210436158427",
+               "date_modified": "0",
+               "id": "7",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13176527003000000",
+                  "id": "13",
+                  "name": "Ubuntu",
+                  "type": "url",
+                  "url": "http://www.ubuntu.com/"
+               }, {
+                  "date_added": "13176527003000000",
+                  "id": "14",
+                  "name": "Ubuntu Wiki (community-edited website)",
+                  "type": "url",
+                  "url": "http://wiki.ubuntu.com/"
+               }, {
+                  "date_added": "13176527003000000",
+                  "id": "15",
+                  "name": "Make a Support Request to the Ubuntu Community",
+                  "type": "url",
+                  "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+               }, {
+                  "date_added": "13176527003000000",
+                  "id": "16",
+                  "name": "Debian (Ubuntu is based on Debian)",
+                  "type": "url",
+                  "url": "http://www.debian.org/"
+               } ],
+               "date_added": "13177210436158546",
+               "date_modified": "0",
+               "id": "12",
+               "name": "Ubuntu and Free Software links",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13176530802000000",
+                     "id": "20",
+                     "name": "强大的vim配置文件，让编程更随意 - ma6174 - 博客园",
+                     "type": "url",
+                     "url": "https://www.cnblogs.com/ma6174/archive/2011/12/10/2283393.html"
+                  }, {
+                     "date_added": "13176530817000000",
+                     "id": "21",
+                     "name": "ubuntu 16.04 更换源 - CSDN博客",
+                     "type": "url",
+                     "url": "https://blog.csdn.net/jjmjeffrey/article/details/74999907"
+                  }, {
+                     "date_added": "13176543202000000",
+                     "id": "22",
+                     "name": "安装zoom-博客-云栖社区-阿里云",
+                     "type": "url",
+                     "url": "https://yq.aliyun.com/articles/570873"
+                  }, {
+                     "date_added": "13176552131000000",
+                     "id": "23",
+                     "name": "Linux vi/vim | 菜鸟教程",
+                     "type": "url",
+                     "url": "http://www.runoob.com/linux/linux-vim.html"
+                  }, {
+                     "date_added": "13176554477000000",
+                     "id": "24",
+                     "name": "求600851475143的最大质因数 - CSDN博客",
+                     "type": "url",
+                     "url": "https://blog.csdn.net/w605283073/article/details/52750786"
+                  }, {
+                     "date_added": "13176612828000000",
+                     "id": "25",
+                     "name": "vim简单用法 - CSDN博客",
+                     "type": "url",
+                     "url": "https://blog.csdn.net/abebetter/article/details/77542002"
+                  }, {
+                     "date_added": "13176619945000000",
+                     "id": "26",
+                     "name": "欧拉计划003:最大质因数 - CSDN博客",
+                     "type": "url",
+                     "url": "https://blog.csdn.net/kodert/article/details/53522697"
+                  }, {
+                     "children": [ {
+                        "date_added": "13176868767000000",
+                        "id": "28",
+                        "name": "用C语言实现顺时针螺旋方阵的打印（含算法） - CSDN博客",
+                        "type": "url",
+                        "url": "https://blog.csdn.net/lengmose/article/details/3284768"
+                     }, {
+                        "date_added": "13177070817000000",
+                        "id": "29",
+                        "name": "gcc编译器下pow函数编译的问题 - CSDN博客",
+                        "type": "url",
+                        "url": "https://blog.csdn.net/anmingyu11/article/details/51788170"
+                     } ],
+                     "date_added": "13177210436159002",
+                     "date_modified": "0",
+                     "id": "27",
+                     "name": "C语言",
+                     "type": "folder"
+                  }, {
+                     "date_added": "13176724652000000",
+                     "id": "30",
+                     "name": "图文详解Ubuntu 16.04怎么看视频网站（安装某狗输入法和flash插件） - CSDN博客",
+                     "type": "url",
+                     "url": "https://blog.csdn.net/caib1109/article/details/51255260"
+                  } ],
+                  "date_added": "13177210436158662",
+                  "date_modified": "0",
+                  "id": "18",
+                  "name": "ubantu",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13176643704000000",
+                     "id": "32",
+                     "name": "欧拉计划 | Project Euler 第三题的做法 - alexkh - 博客园",
+                     "type": "url",
+                     "url": "https://www.cnblogs.com/alexkh/archive/2012/12/27/2835476.html"
+                  }, {
+                     "date_added": "13176643743000000",
+                     "id": "33",
+                     "name": "欧拉计划 第3题 - CSDN博客",
+                     "type": "url",
+                     "url": "https://blog.csdn.net/tabyou/article/details/20216359"
+                  }, {
+                     "date_added": "13177081570000000",
+                     "id": "34",
+                     "name": "欧拉计划 第十六题 - CSDN博客",
+                     "type": "url",
+                     "url": "https://blog.csdn.net/qq_38362049/article/details/80958288"
+                  }, {
+                     "date_added": "13177082249000000",
+                     "id": "35",
+                     "name": "欧拉计划 第十七题 - CSDN博客",
+                     "type": "url",
+                     "url": "https://blog.csdn.net/qq_38362049/article/details/80921024"
+                  } ],
+                  "date_added": "13177210436159141",
+                  "date_modified": "0",
+                  "id": "31",
+                  "name": "Euler",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13176654145000000",
+                     "id": "37",
+                     "name": "vim 复制/剪切/粘贴/撤销操作 - CSDN博客",
+                     "type": "url",
+                     "url": "https://blog.csdn.net/feng98ren/article/details/80509607"
+                  } ],
+                  "date_added": "13177210436159289",
+                  "date_modified": "0",
+                  "id": "36",
+                  "name": "vim",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13176900520000000",
+                     "id": "40",
+                     "name": "三. Typora：简单高效的 Markdown 编辑器 - CSDN博客",
+                     "type": "url",
+                     "url": "https://blog.csdn.net/wirelessqa/article/details/70432631"
+                  }, {
+                     "date_added": "13176900974000000",
+                     "id": "41",
+                     "name": "Ubuntu配置完全教程 - jiangyx - 博客园",
+                     "type": "url",
+                     "url": "https://www.cnblogs.com/Jiangyx/p/8011605.html"
+                  }, {
+                     "date_added": "13176909550000000",
+                     "id": "42",
+                     "name": "Typora的使用 - CSDN博客",
+                     "type": "url",
+                     "url": "https://blog.csdn.net/qq_27035123/article/details/77574030"
+                  }, {
+                     "date_added": "13176909686000000",
+                     "id": "43",
+                     "name": "Typora使用手册和Markdown区别 - CSDN博客",
+                     "type": "url",
+                     "url": "https://blog.csdn.net/xl_lx/article/details/80482435"
+                  }, {
+                     "date_added": "13176909695000000",
+                     "id": "44",
+                     "name": "Typora护眼绿和夜色两种背景 - CSDN博客",
+                     "type": "url",
+                     "url": "https://blog.csdn.net/u011622109/article/details/78313850"
+                  } ],
+                  "date_added": "13177210436159331",
+                  "date_modified": "0",
+                  "id": "38",
+                  "name": "markdown",
+                  "type": "folder"
+               } ],
+               "date_added": "13177210436158658",
+               "date_modified": "13177215055316393",
+               "id": "17",
+               "name": "Other Bookmarks",
+               "type": "folder"
+            } ],
+            "date_added": "13177210436158179",
+            "date_modified": "13177210436158179",
+            "id": "6",
+            "name": "从 Firefox 导入",
+            "type": "folder"
+         }, {
+            "date_added": "13177215055316393",
+            "id": "45",
+            "meta_info": {
+               "last_visited_desktop": "13178711636984995"
+            },
+            "name": "海贼宝藏 - 海贼精神，无往不前 - Powered By EduSoho",
+            "type": "url",
+            "url": "http://www.haizeix.com/"
+         }, {
+            "date_added": "13177215115585677",
+            "id": "47",
+            "meta_info": {
+               "last_visited_desktop": "13178712088422085"
+            },
+            "name": "Archived Problems - Project Euler",
+            "type": "url",
+            "url": "https://projecteuler.net/archives"
+         }, {
+            "date_added": "13177245032105970",
+            "id": "49",
+            "meta_info": {
+               "last_visited_desktop": "13178712088873530"
+            },
+            "name": "QQMail - Inbox",
+            "type": "url",
+            "url": "http://en.mail.qq.com/cgi-bin/frame_html?sid=Uw9tX8-zoofbZHYt&r=93c46145d9c854b7cb7b07390ef1181b"
+         }, {
+            "date_added": "13178381166256830",
+            "id": "62",
+            "meta_info": {
+               "last_visited_desktop": "13178712098330799"
+            },
+            "name": "钉钉",
+            "type": "url",
+            "url": "https://im.dingtalk.com/"
+         }, {
+            "date_added": "13178178218888153",
+            "id": "53",
+            "meta_info": {
+               "last_visited_desktop": "13178712103249517"
+            },
+            "name": "试炼场 - 洛谷",
+            "type": "url",
+            "url": "https://www.luogu.org/training/mainpage"
+         }, {
+            "date_added": "13178343457326900",
+            "id": "55",
+            "meta_info": {
+               "last_visited_desktop": "13178712110413308"
+            },
+            "name": "How to use pip with Python 3.x alongside Python 2.x - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/11268501/how-to-use-pip-with-python-3-x-alongside-python-2-x"
+         }, {
+            "date_added": "13178356789157304",
+            "id": "57",
+            "meta_info": {
+               "last_visited_desktop": "13178712116831380"
+            },
+            "name": "ubuntu安装openssh-server 报依赖错误的解决过程 - 劲风天下 - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/wen-z/articles/4356053.html"
+         }, {
+            "date_added": "13178358704283072",
+            "id": "58",
+            "meta_info": {
+               "last_visited_desktop": "13178712146000972"
+            },
+            "name": "Linux下实现免密码登录(超详细)_Linux_脚本之家",
+            "type": "url",
+            "url": "https://www.jb51.net/article/94599.htm"
+         }, {
+            "date_added": "13178021068972363",
+            "id": "51",
+            "meta_info": {
+               "last_visited_desktop": "13178712316721881"
+            },
+            "name": "算法-蓝桥杯习题（5-1） - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/rodestillfaraway/article/details/50529769"
+         }, {
+            "date_added": "13178359824206554",
+            "id": "59",
+            "meta_info": {
+               "last_visited_desktop": "13178712323292567"
+            },
+            "name": "Github网站css加载不出来的处理方法 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/qq_36589706/article/details/80573008"
+         }, {
+            "date_added": "13178366698427916",
+            "id": "60",
+            "meta_info": {
+               "last_visited_desktop": "13178712329320273"
+            },
+            "name": "github使用教程（4）——回退版本_百度经验",
+            "type": "url",
+            "url": "https://jingyan.baidu.com/article/72ee561a0aea7ce16138dfbd.html"
+         }, {
+            "date_added": "13178382137041853",
+            "id": "63",
+            "meta_info": {
+               "last_visited_desktop": "13178712339807435"
+            },
+            "name": "Ubuntu下本地仓库项目上传至github远程仓库 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/bigdog_1027/article/details/78851063"
+         }, {
+            "date_added": "13178382911743732",
+            "id": "64",
+            "meta_info": {
+               "last_visited_desktop": "13178712350647636"
+            },
+            "name": "Git:更新被拒绝，因为您当前分之的最新跟新落后于其对应的远程分支 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/u012300744/article/details/80264807"
+         }, {
+            "date_added": "13178532567282401",
+            "id": "66",
+            "meta_info": {
+               "last_visited_desktop": "13178712360860141"
+            },
+            "name": "shell中if判断条件中使用[],[[]],(())还是test,let的比较 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/nyist327/article/details/44804113"
+         }, {
+            "date_added": "13178539309120421",
+            "id": "67",
+            "meta_info": {
+               "last_visited_desktop": "13178539309120792"
+            },
+            "name": "shell脚本递归遍历目录及子目录的例子分享_linux shell_脚本之家",
+            "type": "url",
+            "url": "https://www.jb51.net/article/48832.htm"
+         }, {
+            "date_added": "13178539323032005",
+            "id": "68",
+            "meta_info": {
+               "last_visited_desktop": "13178712374936468"
+            },
+            "name": "shell中判断文件大小是否超过指定大小 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/smilefyx/article/details/22478107"
+         }, {
+            "date_added": "13178622660625689",
+            "id": "70",
+            "meta_info": {
+               "last_visited_desktop": "13178712381770909"
+            },
+            "name": "Linux 基本shell命令和Linux rm -rf原理分析 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/Mikeoperfect/article/details/78177445"
+         }, {
+            "date_added": "13178703180065193",
+            "id": "72",
+            "meta_info": {
+               "last_visited_desktop": "13178712393233703"
+            },
+            "name": "ubuntu修改rm命令，使删除的文件放到回收站 - 推酷",
+            "type": "url",
+            "url": "https://www.tuicool.com/articles/FNFfUr"
+         }, {
+            "date_added": "13178703192008889",
+            "id": "73",
+            "meta_info": {
+               "last_visited_desktop": "13178712400872703"
+            },
+            "name": "ubuntu14.04里sudo rm -rf * 执行了恢复数据的方法 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/qq_36355662/article/details/61919474"
+         }, {
+            "date_added": "13178708355451895",
+            "id": "74",
+            "meta_info": {
+               "last_visited_desktop": "13178708355452063"
+            },
+            "name": "linux 把长路径名赋值给变量_百度知道",
+            "type": "url",
+            "url": "https://zhidao.baidu.com/question/2206329112263835988.html"
+         }, {
+            "date_added": "13178711530719360",
+            "id": "75",
+            "meta_info": {
+               "last_visited_desktop": "13178712412206402"
+            },
+            "name": "Linux 用户登录shell及登录时读取的配置文件_Linux教程_Linux公社-Linux系统门户网站",
+            "type": "url",
+            "url": "https://www.linuxidc.com/Linux/2015-02/113072.htm"
+         }, {
+            "date_added": "13176529297000000",
+            "id": "19",
+            "meta_info": {
+               "last_visited_desktop": "13178712423033729"
+            },
+            "name": "安装Ubuntu 16.04后要做的事 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/skange/article/details/81127575"
+         }, {
+            "date_added": "13176900477000000",
+            "id": "39",
+            "meta_info": {
+               "last_visited_desktop": "13178712435601392"
+            },
+            "name": "ubuntu16 安装Typora - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/yuan_chen_/article/details/80587974"
+         } ],
+         "date_added": "13177210186828062",
+         "date_modified": "13178711631097106",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13177210186828065",
+         "date_modified": "0",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13177210186828066",
+         "date_modified": "0",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

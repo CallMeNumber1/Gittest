@@ -1,0 +1,19 @@
+2018/08/13-16:15:22.505 14947 Reusing MANIFEST /home/chongh/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/08/13-16:15:22.505 14947 Recovering log #91
+2018/08/13-16:15:22.505 14947 Reusing old log /home/chongh/.config/google-chrome/Default/Session Storage/000091.log 
+2018/08/13-16:51:07.138 17144 Compacting 3@0 + 0@1 files
+2018/08/13-16:51:07.156 17144 Generated table #94@0: 203 keys, 5977 bytes
+2018/08/13-16:51:07.156 17144 Compacted 3@0 + 0@1 files => 5977 bytes
+2018/08/13-16:51:07.160 17144 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/08/13-16:51:07.160 17144 Delete type=2 #87
+2018/08/13-16:51:07.161 17144 Delete type=2 #89
+2018/08/13-16:51:07.161 17144 Delete type=2 #92
+2018/08/13-17:35:48.549 17144 Compacting 1@1 + 1@2 files
+2018/08/13-17:35:48.567 17144 Generated table #95@1: 15 keys, 1726 bytes
+2018/08/13-17:35:48.567 17144 Compacted 1@1 + 1@2 files => 1726 bytes
+2018/08/13-17:35:48.571 17144 compacted to: files[ 0 0 1 0 0 0 0 ]
+2018/08/13-17:35:48.572 17144 Delete type=2 #90
+2018/08/13-17:35:48.572 17144 Delete type=2 #94
+2018/08/13-20:00:31.475 17144 Level-0 table #97: started
+2018/08/13-20:00:31.479 17144 Level-0 table #97: 20128 bytes OK
+2018/08/13-20:00:31.508 17144 Delete type=0 #91

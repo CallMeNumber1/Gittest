@@ -1,0 +1,6 @@
+
+(unity-settings-daemon:1590): color-plugin-WARNING **: failed to set screen _ICC_PROFILE: 打开文件“/var/lib/lightdm/.local/share/icc/edid-ae71c7016a7270bd67198d0968f2ab8f.icc”失败：权限不够
+
+(unity-settings-daemon:1590): color-plugin-WARNING **: failed to connect to device: Failed to connect to missing device /org/freedesktop/ColorManager/devices/sysfs__null_
+
+(unity-settings-daemon:1590): color-plugin-WARNING **: failed to connect to device: Failed to connect to missing device /org/freedesktop/ColorManager/devices/sysfs__null_
